@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./car-details.component.css']
 })
 export class CarDetailsComponent {
-
+	public numOfCar:any = 100;
 }
