@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class CarDetailsComponent {
 	public numOfCar:any = 100;
+	public numOfCar2:any = 102;
+	public numOfCa3:any = 130;
 }
