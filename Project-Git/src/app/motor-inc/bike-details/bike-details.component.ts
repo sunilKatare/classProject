@@ -9,6 +9,6 @@ export class BikeDetailsComponent {
 	public bikeNumber:any = 10;
 
   getMethod1(){
-    return "Hello, 123";
+    return null;
   }
 }
