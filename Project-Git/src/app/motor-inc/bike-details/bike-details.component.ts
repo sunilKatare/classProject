@@ -9,6 +9,7 @@ export class BikeDetailsComponent {
 	public bikeNumber:any = 10;
 
   getMethod1(){
+    const a =10;
     return null;
   }
 }
