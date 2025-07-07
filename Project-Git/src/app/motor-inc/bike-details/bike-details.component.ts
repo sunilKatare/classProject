@@ -10,7 +10,7 @@ export class BikeDetailsComponent {
 
   getMethod1(){
     const a =100;
-    const b = 200;
+    const b = 20;
     return a > b ? true : false;
   }
 }
