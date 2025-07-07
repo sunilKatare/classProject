@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./bike-details.component.css']
 })
 export class BikeDetailsComponent {
-
+	public bikeNumber:any = 10;
 }
