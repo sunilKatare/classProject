@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class BikeDetailsComponent {
 	public bikeNumber:any = 10;
+
+  getMethod(){
+    return null;
+  }
 }
