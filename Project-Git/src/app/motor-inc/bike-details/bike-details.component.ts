@@ -6,11 +6,11 @@ import { Component } from '@angular/core';
   styleUrls: ['./bike-details.component.css']
 })
 export class BikeDetailsComponent {
-	public bikeNumber:any = 10;
+  public bikeNumber: any = 10;
 
-  getMethod1(){
-    const a =100;
-    const b = 200 + a;
+  getMethod1() {
+    const a = 100;
+    const b = a + a;
     return a > b ? true : false;
   }
 }
