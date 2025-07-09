@@ -9,8 +9,7 @@ export class BikeDetailsComponent {
   public bikeNumber: any = 10;
 
   getMethod1() {
-    const a = 100;
-    const b = a + a;
+    const a = 100, b = 200;
     return a > b ? true : false;
   }
 }
